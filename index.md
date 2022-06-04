@@ -2,7 +2,7 @@
 
 #### I am a trans and nonbinary programmer and game designer located in the Pacific northwest. My pronouns are she/her, or they/them.
 
-#### My main github home page is located at https://colorinvert.github.io/reading-notes/
+#### My main github home page is located at https://github.com/ColorInvert
 
 
 ### On The Topic Of Growth Mindset:
