@@ -9,7 +9,13 @@
 
 
 
-##### This page was created in Markdown. Read more about markdown [Here.](https://colorinvert.github.io/reading-notes/About-Markdown)
+
+
+##### This page was created in Markdown. Read more about Markdown [Here.](https://colorinvert.github.io/reading-notes/About-Markdown)
+
+
+
+##### You can learn more about text editors, and IDEs [Here.](https://colorinvert.github.io/reading-notes/Choosing-A-Text-Editor)
 
 
 
