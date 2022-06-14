@@ -32,7 +32,7 @@ The Git editor for assembling markdown pages on-site is in itself a text editor 
 
 #### additional cd tricks
 
-- the `~` key is a shortcut for your home directory, so `cd ~` will take you there. `cd` with zero arguments does that too though.
+- `~` is a shortcut for your home directory, so `cd ~` will take you there. `cd` with zero arguments does that too though.
 - `.` is a shortcut for "current directory." so if you're in the directory "files" and you want to transfer to the deeper directory "documents" `cd ./documents` will work.
 - `..` is a shortcut for "parent directory." or in other words, "Above by one level." `cd ../` will take you out of your current folder, and bring you one step closer to your root directory.
 
