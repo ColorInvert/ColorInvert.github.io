@@ -15,7 +15,7 @@
 
 
 
-##### You can learn more about text editors, and IDEs [Here.](https://colorinvert.github.io/reading-notes/Choosing-A-Text-Editor)
+##### You can learn more about text editors, IDEs, and file formats [Here.](https://colorinvert.github.io/reading-notes/Choosing-A-Text-Editor)
 
 
 
