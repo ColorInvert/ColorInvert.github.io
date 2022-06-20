@@ -3,14 +3,14 @@
 Git is a type of Distributed Version Control System. (DVCS) The purpose of a DVCS is to provide several different safeguards and good practices when working
 on a computer application or most any system that requires code, and updates.
 
-Some of the core benifits of DVCS are: 
+Some of the core benefits of DVCS are: 
 - preventing a single hard drive failing from taking out the source code of a project,
-- allowing multiple people to work on thesame project at the same time with minimal conflicts,
+- allowing multiple people to work on the same project at the same time with minimal conflicts,
 - and maintaining access to all previous versions that can be reverted to at will, as insurance against a bad update being distributed.
 
 ### Version Control
 
-The Version Control part of DVCS is somewhat self explantatory, Git will keep track of all previous versions and changes made to a project, as well as
+The Version Control part of DVCS is somewhat self explanatory, Git will keep track of all previous versions and changes made to a project, as well as
 automatically document the exact lines of code in which something has changed from one "build" to the next. With this precise documentation and tracking,
 diagnosing the source, origin, and reason for an error in between versions is a lot easier, along with allowing painless revert to old versions if needed.
 
