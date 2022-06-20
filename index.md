@@ -19,6 +19,11 @@
 
 
 
+
+##### [What is Git?](https://colorinvert.github.io/reading-notes/What-Is-Git)
+
+
+
 ### On The Topic Of Growth Mindset:
   Growth Mindset is a concept and belief that instead of talent being innate and fixed, that people who practice and stick to doing something with the intent to learn and master will continue to improve and grow in their skill at the task over time. In addtion, growth mindset entails making sure not to give up early on tasks, but instead, upon hitting a roadblock, poke at them from multiple angles, and search for different approaches and perhaps talk through the issue to yourself, or others.
 
