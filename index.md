@@ -11,6 +11,8 @@
 
 ##### [On the Topic of HTML, and the act of Wireframing](https://colorinvert.github.io/reading-notes/Html-And-Wireframes)
 
+##### [On the Topic of CSS, and how it interacts with HTML](https://colorinvert.github.io/reading-notes/CSS)
+
 ##### [On the Topic of Growth Mindset.](https://colorinvert.github.io/reading-notes/Growth-Mindset)
 
 ##### [What is Git?](https://colorinvert.github.io/reading-notes/What-Is-Git)
