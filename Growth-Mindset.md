@@ -11,8 +11,4 @@
 
 **3:** Be willing to talk to others. Communication may have been the focus of my degree, but it is for the reason that it is hard for me. Being able to talk to others to ask for help, and communicate confusion or stopping points is vital to working on a team, and is a fundamental skill for programming jobs in my future.
 
-##
-
-###
-
 #### [Back To Main Page.](https://colorinvert.github.io/reading-notes/)
