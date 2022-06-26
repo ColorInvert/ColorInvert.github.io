@@ -13,6 +13,8 @@
 
 ##### [On the Topic of CSS, and how it interacts with HTML](https://colorinvert.github.io/reading-notes/CSS)
 
+##### [On the Topic of Javascript, and making your website respond to user actions.](https://colorinvert.github.io/reading-notes/Javascript)
+
 ##### [On the Topic of Growth Mindset.](https://colorinvert.github.io/reading-notes/Growth-Mindset)
 
 ##### [What is Git?](https://colorinvert.github.io/reading-notes/What-Is-Git)
