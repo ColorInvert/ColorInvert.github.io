@@ -1,9 +1,32 @@
-# Welcome to the class page for Casey Glidewell
+# Welcome to the updated class page for Casey Glidewell
 
 
-#### I am a trans and nonbinary programmer and game designer located in the Pacific northwest. My pronouns are she/her, or they/them
+#### I am a trans and nonbinary programmer and game designer located in the Pacific northwest. My pronouns are she/her, or they/them.
 
 #### My main github home page is located at <https://github.com/ColorInvert>
+
+## Code 201 Reading Notes
+
+> Links for daily reading assignment notes will be filled in as the class progresses.
+>
+>- Daily reading assignment 1
+>- Daily reading assignment 2
+>- Daily reading assignment 3
+>- Daily reading assignment 4
+>- Daily reading assignment 5
+>- Daily reading assignment 6
+>- Daily reading assignment 7
+>- Daily reading assignment 8
+>- Daily reading assignment 9
+>- Daily reading assignment 10
+>- Daily reading assignment 11
+>- Daily reading assignment 12
+>- Daily reading assignment 13
+>- Daily reading assignment 14
+>- Daily reading assignment 15
+
+
+## Archived Code 102 Reading Notes
 
 ##### This page was created in Markdown. Read more about Markdown [Here.](https://colorinvert.github.io/reading-notes/About-Markdown)
 
