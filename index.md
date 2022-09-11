@@ -9,7 +9,7 @@
 
 > Links for daily reading assignment notes will be filled in as the class progresses.
 >
->- Daily reading assignment 1
+>- [Daily 1, refresher](https://colorinvert.github.io/reading-notes/class-01)
 >- Daily reading assignment 2
 >- Daily reading assignment 3
 >- Daily reading assignment 4
