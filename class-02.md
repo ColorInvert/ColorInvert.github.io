@@ -76,12 +76,12 @@ Asking consecutive If statements for conditions that have more than 2 outcomes. 
 #### What is the difference between the logical operator `&&` and `||`?
 
 for this example , we're going to use the boolean variables A, and B.
-
+```
 && is AND.
 A && B will ONLY return a "True" boolean if *both* A and B are set to True. Either, or both being False will return a False value.
 
 || is OR.  If only A is true, if only B is true, or if BOTH are true, then a True value will be returned. *only* if both are false will a False value be returned.
-
+```
 
 
 #### [Back To Main Page.](https://colorinvert.github.io/reading-notes/)
