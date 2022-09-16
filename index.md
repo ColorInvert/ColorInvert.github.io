@@ -13,7 +13,7 @@
 >- [Daily 2, basics of html/CSS/JS](https://colorinvert.github.io/reading-notes/class-02)
 >- [Daily 3, lists, arrays, operators, loops](https://colorinvert.github.io/reading-notes/class-03)
 >- [Daily 4, HTML Links, JS Functions, CSS Layout](https://colorinvert.github.io/reading-notes/class-04)
->- Daily reading assignment 5
+>- [Daily 5, Images, Color, Text](https://colorinvert.github.io/reading-notes/class-05)
 >- Daily reading assignment 6
 >- Daily reading assignment 7
 >- Daily reading assignment 8
