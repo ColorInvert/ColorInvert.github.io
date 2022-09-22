@@ -16,8 +16,8 @@
 >- [Daily 5, Images, Color, Text](https://colorinvert.github.io/reading-notes/class-05)
 >- [Daily 6, Problem Domain, Objects, and the DOM](https://colorinvert.github.io/reading-notes/class-06)
 >- [Daily 7, Object-Oriented Programming, HTML Tables](https://colorinvert.github.io/reading-notes/class-07)
->- [Daily 8, CSS Layout](https://colorinvert.github.io/reading-notes/class-07)
->- Daily reading assignment 9
+>- [Daily 8, CSS Layout](https://colorinvert.github.io/reading-notes/class-08)
+>- [Daily 9 Forms and JS Events](https://colorinvert.github.io/reading-notes/class-09)
 >- Daily reading assignment 10
 >- Daily reading assignment 11
 >- Daily reading assignment 12
