@@ -19,7 +19,7 @@
 >- [Daily 8, CSS Layout](https://colorinvert.github.io/reading-notes/class-08)
 >- [Daily 9, Forms and JS Events](https://colorinvert.github.io/reading-notes/class-09)
 >- [Daily 10, Debugging](https://colorinvert.github.io/reading-notes/class-10)
->- Daily reading assignment 11
+>- [Daily 11, Audio, Video, Images](https://colorinvert.github.io/reading-notes/class-11)
 >- Daily reading assignment 12
 >- Daily reading assignment 13
 >- Daily reading assignment 14
