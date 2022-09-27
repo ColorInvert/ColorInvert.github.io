@@ -21,7 +21,7 @@
 >- [Daily 10, Debugging](https://colorinvert.github.io/reading-notes/class-10)
 >- [Daily 11, Audio, Video, Images](https://colorinvert.github.io/reading-notes/class-11)
 >- [Daily 12, Chart.js, Canvas](https://colorinvert.github.io/reading-notes/class-12)
->- Daily reading assignment 13
+>- [Daily 13, Chart.js, Local Storage](https://colorinvert.github.io/reading-notes/class-13)
 >- Daily reading assignment 14
 >- Daily reading assignment 15
 

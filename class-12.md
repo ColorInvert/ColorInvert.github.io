@@ -2,7 +2,7 @@
 
 
 
-#### What does the <canvas> allow a developer to acheive?
+#### What does the `<canvas>` allow a developer to acheive?
 
 Manual drawing of 2D imagry through the use of simple shape definitions, and their properties.
 
