@@ -8,8 +8,8 @@
 
 ## Code 301 Reading Notes
 > Links for daily reading assignment notes will be filled in as the class progresses.
-
->- Daily 1
+>
+>- [Daily 1, Introduction to React and Components](https://colorinvert.github.io/reading-notes/301-01)
 
 
 
