@@ -12,7 +12,8 @@
 >- [Daily 1, Introduction to React and Components](https://colorinvert.github.io/reading-notes/301-01)
 >
 >- [Daily 2, State and Props](https://colorinvert.github.io/reading-notes/301-02)
-
+>
+>- [Daily 3, Passing Functions as Props](https://colorinvert.github.io/reading-notes/301-03)
 
 
 ## Archived Code 201 Reading Notes
