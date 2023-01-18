@@ -14,7 +14,8 @@
 >- [Daily 2, State and Props](https://colorinvert.github.io/reading-notes/301-02)
 >
 >- [Daily 3, Passing Functions as Props](https://colorinvert.github.io/reading-notes/301-03)
-
+>
+>- [Daily 4, React and Forms](https://colorinvert.github.io/reading-notes/301-04)
 
 ## Archived Code 201 Reading Notes
 
