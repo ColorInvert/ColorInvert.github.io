@@ -16,6 +16,10 @@
 >- [Daily 3, Passing Functions as Props](https://colorinvert.github.io/reading-notes/301-03)
 >
 >- [Daily 4, React and Forms](https://colorinvert.github.io/reading-notes/301-04)
+>
+>- [Daily 5, Putting it all together](https://colorinvert.github.io/reading-notes/301-05)
+>
+>- [Daily 6, NODE.JS, Pair Programming](https://colorinvert.github.io/reading-notes/301-06)
 
 ## Archived Code 201 Reading Notes
 
