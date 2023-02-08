@@ -22,7 +22,8 @@
 >- [Daily 6, NODE.JS, Pair Programming](https://colorinvert.github.io/reading-notes/301-06)
 >
 >- [Daily 7, REST](https://colorinvert.github.io/reading-notes/301-07)
-
+>
+>- [Daily 8, APIs](https://colorinvert.github.io/reading-notes/301-08)
 
 ## Archived Code 201 Reading Notes
 
