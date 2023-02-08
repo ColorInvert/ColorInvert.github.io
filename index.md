@@ -20,6 +20,9 @@
 >- [Daily 5, Putting it all together](https://colorinvert.github.io/reading-notes/301-05)
 >
 >- [Daily 6, NODE.JS, Pair Programming](https://colorinvert.github.io/reading-notes/301-06)
+>
+>- [Daily 7, REST](https://colorinvert.github.io/reading-notes/301-07)
+
 
 ## Archived Code 201 Reading Notes
 
