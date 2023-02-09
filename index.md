@@ -24,6 +24,8 @@
 >- [Daily 7, REST](https://colorinvert.github.io/reading-notes/301-07)
 >
 >- [Daily 8, APIs](https://colorinvert.github.io/reading-notes/301-08)
+>
+>- [Daily 9, Functional Programming](https://colorinvert.github.io/reading-notes/301-09)
 
 ## Archived Code 201 Reading Notes
 
