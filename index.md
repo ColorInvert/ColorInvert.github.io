@@ -30,6 +30,8 @@
 >- [Daily 10, In-Memory Storage](https://colorinvert.github.io/reading-notes/301-10)
 >
 >- [Daily 11, MongoDB and Mongoose](https://colorinvert.github.io/reading-notes/301-11)
+>
+>- [Daily 12, CRUD](https://colorinvert.github.io/reading-notes/301-12)
 
 ## Archived Code 201 Reading Notes
 
