@@ -32,6 +32,8 @@
 >- [Daily 11, MongoDB and Mongoose](https://colorinvert.github.io/reading-notes/301-11)
 >
 >- [Daily 12, CRUD](https://colorinvert.github.io/reading-notes/301-12)
+>
+>- [Daily 12, More CRUD](https://colorinvert.github.io/reading-notes/301-13)
 
 ## Archived Code 201 Reading Notes
 
