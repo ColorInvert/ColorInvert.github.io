@@ -33,7 +33,9 @@
 >
 >- [Daily 12, CRUD](https://colorinvert.github.io/reading-notes/301-12)
 >
->- [Daily 12, More CRUD](https://colorinvert.github.io/reading-notes/301-13)
+>- [Daily 13, More CRUD](https://colorinvert.github.io/reading-notes/301-13)
+>
+>- [Daily 14, Diversity & Inclusion in the Tech Industry](https://colorinvert.github.io/reading-notes/301-14)
 
 ## Archived Code 201 Reading Notes
 
