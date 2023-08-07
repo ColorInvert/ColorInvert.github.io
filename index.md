@@ -1,14 +1,44 @@
-# Welcome to the updated class page for Casey Glidewell
+# Reading Notes
 
+ This is the notes page for daily readings as part of my code fellows curriculum. Each subpage is dedicated to the readings for that day, and most take the form of a question and answer format for things I have learned that day.
 
 #### I am a trans and nonbinary programmer and game designer located in the Pacific northwest. My pronouns are she/her, or they/them.
 
 #### My main github home page is located at <https://github.com/ColorInvert>
 
-## Code 201 Reading Notes
-
+## Code 301 Reading Notes
 > Links for daily reading assignment notes will be filled in as the class progresses.
 >
+>- [Daily 1, Introduction to React and Components](https://colorinvert.github.io/reading-notes/301-01)
+>
+>- [Daily 2, State and Props](https://colorinvert.github.io/reading-notes/301-02)
+>
+>- [Daily 3, Passing Functions as Props](https://colorinvert.github.io/reading-notes/301-03)
+>
+>- [Daily 4, React and Forms](https://colorinvert.github.io/reading-notes/301-04)
+>
+>- [Daily 5, Putting it all together](https://colorinvert.github.io/reading-notes/301-05)
+>
+>- [Daily 6, NODE.JS, Pair Programming](https://colorinvert.github.io/reading-notes/301-06)
+>
+>- [Daily 7, REST](https://colorinvert.github.io/reading-notes/301-07)
+>
+>- [Daily 8, APIs](https://colorinvert.github.io/reading-notes/301-08)
+>
+>- [Daily 9, Functional Programming](https://colorinvert.github.io/reading-notes/301-09)
+>
+>- [Daily 10, In-Memory Storage](https://colorinvert.github.io/reading-notes/301-10)
+>
+>- [Daily 11, MongoDB and Mongoose](https://colorinvert.github.io/reading-notes/301-11)
+>
+>- [Daily 12, CRUD](https://colorinvert.github.io/reading-notes/301-12)
+>
+>- [Daily 13, More CRUD](https://colorinvert.github.io/reading-notes/301-13)
+>
+>- [Daily 14, Diversity & Inclusion in the Tech Industry](https://colorinvert.github.io/reading-notes/301-14)
+
+## Archived Code 201 Reading Notes
+
 >- [Daily 1, refresher](https://colorinvert.github.io/reading-notes/class-01)
 >- [Daily 2, basics of html/CSS/JS](https://colorinvert.github.io/reading-notes/class-02)
 >- [Daily 3, lists, arrays, operators, loops](https://colorinvert.github.io/reading-notes/class-03)
@@ -23,8 +53,6 @@
 >- [Daily 12, Chart.js, Canvas](https://colorinvert.github.io/reading-notes/class-12)
 >- [Daily 13, Local Storage](https://colorinvert.github.io/reading-notes/class-13)
 >- [Daily 14, CSS transforms, animations](https://colorinvert.github.io/reading-notes/class-14)
->- Daily reading assignment 15
-
 
 ## Archived Code 102 Reading Notes
 
