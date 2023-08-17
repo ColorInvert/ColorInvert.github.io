@@ -10,35 +10,36 @@
 
 Placeholder.
 
+>- [SQL, and relational databases](https://colorinvert.github.io/reading-notes/sql)
+
+>- [Bash, and the command line](https://colorinvert.github.io/reading-notes/cmd)
+
+
+
+
+
+
+
+
+
+
+
 ## Archived Code 301 Reading Notes
 > Links for daily reading assignment notes will be filled in as the class progresses.
 >
 >- [Daily 1, Introduction to React and Components](https://colorinvert.github.io/reading-notes/301-01)
->
 >- [Daily 2, State and Props](https://colorinvert.github.io/reading-notes/301-02)
->
 >- [Daily 3, Passing Functions as Props](https://colorinvert.github.io/reading-notes/301-03)
->
 >- [Daily 4, React and Forms](https://colorinvert.github.io/reading-notes/301-04)
->
 >- [Daily 5, Putting it all together](https://colorinvert.github.io/reading-notes/301-05)
->
 >- [Daily 6, NODE.JS, Pair Programming](https://colorinvert.github.io/reading-notes/301-06)
->
 >- [Daily 7, REST](https://colorinvert.github.io/reading-notes/301-07)
->
 >- [Daily 8, APIs](https://colorinvert.github.io/reading-notes/301-08)
->
 >- [Daily 9, Functional Programming](https://colorinvert.github.io/reading-notes/301-09)
->
 >- [Daily 10, In-Memory Storage](https://colorinvert.github.io/reading-notes/301-10)
->
 >- [Daily 11, MongoDB and Mongoose](https://colorinvert.github.io/reading-notes/301-11)
->
 >- [Daily 12, CRUD](https://colorinvert.github.io/reading-notes/301-12)
->
 >- [Daily 13, More CRUD](https://colorinvert.github.io/reading-notes/301-13)
->
 >- [Daily 14, Diversity & Inclusion in the Tech Industry](https://colorinvert.github.io/reading-notes/301-14)
 
 ## Archived Code 201 Reading Notes
