@@ -12,6 +12,7 @@ Placeholder.
 
 >- [SQL, and relational databases](https://colorinvert.github.io/reading-notes/sql)
 
+>- [Bash, and the command line](https://colorinvert.github.io/reading-notes/cmd)
 
 
 
