@@ -14,6 +14,7 @@ Placeholder.
 
 >- [Bash, and the command line](https://colorinvert.github.io/reading-notes/cmd)
 
+>- [Emotional intelligence reflection](https://colorinvert.github.io/reading-notes/emotional-Intelligence)
 
 
 
