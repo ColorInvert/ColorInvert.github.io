@@ -8,15 +8,13 @@
 
 ## Code 401 reading notes
 
-Placeholder.
-
 >- [SQL, and relational databases](https://colorinvert.github.io/reading-notes/sql)
 
 >- [Bash, and the command line](https://colorinvert.github.io/reading-notes/cmd)
 
 >- [Emotional intelligence reflection](https://colorinvert.github.io/reading-notes/emotional-Intelligence)
 
-
+>- [Daily 1 Big O](https://colorinvert.github.io/reading-notes/401-01)
 
 
 
