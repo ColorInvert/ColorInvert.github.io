@@ -14,8 +14,9 @@
 
 >- [Emotional intelligence reflection](https://colorinvert.github.io/reading-notes/emotional-Intelligence)
 
->- [Daily 1 Big O](https://colorinvert.github.io/reading-notes/401-01)
+>- [Daily 1, Big O](https://colorinvert.github.io/reading-notes/401-01)
 
+>- [Daily 2, Testing and Modules](https://colorinvert.github.io/reading-notes/401-02)
 
 
 

@@ -25,4 +25,4 @@ as well.
 
 ##### Markdown is very useful for getting simple text formatting onto a webpage in a hurry, and should be quite familiar to anyone who uses Slack or Discord, which have their own version of Markdown-like formatting shortcuts.
 
-### [Back to main page](https://colorinvert.github.io/reading-notes/)
+#### [Back To Main Page.](https://colorinvert.github.io/reading-notes/)
