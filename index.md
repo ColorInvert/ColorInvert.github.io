@@ -18,6 +18,8 @@
 
 >- [Daily 2, Testing and Modules](https://colorinvert.github.io/reading-notes/401-02)
 
+>- [Daily 3, FileIO & Exceptions](https://colorinvert.github.io/reading-notes/401-03)
+
 
 
 
