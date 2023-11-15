@@ -22,7 +22,9 @@
 
 >- [Daily 4, Fixtures Classes Recursion](https://colorinvert.github.io/reading-notes/401-04)
 
->- [Daily 5, Ten Thousand Two](https://colorinvert.github.io/reading-notes/401-05)
+>- [Daily 6, Ten Thousand 1](https://colorinvert.github.io/reading-notes/401-06)
+
+>- [Daily 7, Ten Thousand 2](https://colorinvert.github.io/reading-notes/401-07)
 
 
 
