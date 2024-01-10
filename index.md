@@ -28,7 +28,7 @@
 
 >- [Daily 8, Ten Thousand 3](https://colorinvert.github.io/reading-notes/401-08)
 
-
+>- [Daily 9, Ten Thousand 4](https://colorinvert.github.io/reading-notes/401-09)
 
 
 ## Archived Code 301 Reading Notes
