@@ -30,6 +30,8 @@
 
 >- [Daily 9, Ten Thousand 4](https://colorinvert.github.io/reading-notes/401-09)
 
+>- [Daily 10, Data Analysis](https://colorinvert.github.io/reading-notes/401-10)
+
 
 ## Archived Code 301 Reading Notes
 > Links for daily reading assignment notes will be filled in as the class progresses.
