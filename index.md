@@ -32,6 +32,8 @@
 
 >- [Daily 10, Data Analysis](https://colorinvert.github.io/reading-notes/401-10)
 
+>- [Daily 12, The Pandas Library](https://colorinvert.github.io/reading-notes/401-12)
+
 
 ## Archived Code 301 Reading Notes
 > Links for daily reading assignment notes will be filled in as the class progresses.
