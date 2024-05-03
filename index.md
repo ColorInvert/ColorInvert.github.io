@@ -34,6 +34,9 @@
 
 >- [Daily 12, The Pandas Library](https://colorinvert.github.io/reading-notes/401-12)
 
+>- [Daily 13, Linear Regressions](https://colorinvert.github.io/reading-notes/401-13)
+
+
 
 ## Archived Code 301 Reading Notes
 > Links for daily reading assignment notes will be filled in as the class progresses.
