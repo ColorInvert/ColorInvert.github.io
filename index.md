@@ -36,6 +36,8 @@
 
 >- [Daily 13, Linear Regressions](https://colorinvert.github.io/reading-notes/401-13)
 
+>- [Daily 14, Data Visualization](https://colorinvert.github.io/reading-notes/401-14)
+
 
 
 ## Archived Code 301 Reading Notes
