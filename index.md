@@ -38,6 +38,8 @@
 
 >- [Daily 14, Data Visualization](https://colorinvert.github.io/reading-notes/401-14)
 
+>- [Daily 16, Serverless Functions](https://colorinvert.github.io/reading-notes/401-16)
+
 
 
 ## Archived Code 301 Reading Notes
