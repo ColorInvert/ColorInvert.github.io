@@ -40,7 +40,7 @@
 
 >- [Daily 16, Serverless Functions](https://colorinvert.github.io/reading-notes/401-16)
 
-
+>- [Daily 17, Web Scraping](https://colorinvert.github.io/reading-notes/401-17)
 
 ## Archived Code 301 Reading Notes
 > Links for daily reading assignment notes will be filled in as the class progresses.
