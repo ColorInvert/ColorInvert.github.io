@@ -42,7 +42,7 @@
 
 >- [Daily 17, Web Scraping](https://colorinvert.github.io/reading-notes/401-17)
 
->- [Daily 17, Cryptography](https://colorinvert.github.io/reading-notes/401-18)
+>- [Daily 18, Cryptography](https://colorinvert.github.io/reading-notes/401-18)
 
 
 
