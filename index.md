@@ -44,6 +44,9 @@
 
 >- [Daily 18, Cryptography](https://colorinvert.github.io/reading-notes/401-18)
 
+>- [Daily 19, Automation](https://colorinvert.github.io/reading-notes/401-19)
+
+
 
 
 
