@@ -46,7 +46,7 @@
 
 >- [Daily 19, Automation](https://colorinvert.github.io/reading-notes/401-19)
 
-
+>- [Daily 26, Intro to Django](https://colorinvert.github.io/reading-notes/401-26)
 
 
 
