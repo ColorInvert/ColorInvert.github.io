@@ -48,6 +48,7 @@
 
 >- [Daily 26, Intro to Django](https://colorinvert.github.io/reading-notes/401-26)
 
+>- [Daily 27, Django Models](https://colorinvert.github.io/reading-notes/401-27)
 
 
 ## Archived Code 301 Reading Notes
